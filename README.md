@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, i'm Ricardo, a computer engineering student at Insper.
+Hi, i'm Ricardo, a computer engineer and a Data Scientist at @shift-technology.
 
 
 ## 🌐 Socials:
